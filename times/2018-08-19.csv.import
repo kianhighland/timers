@@ -1,0 +1,13 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+valid=false
+
+[deps]
+
+source_file="res://times/2018-08-19.csv"
+[params]
+
+compress=true
+delimiter=0

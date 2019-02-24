@@ -1,0 +1,15 @@
+Planning
+Coding
+Other
+Stuff
+#This is a comment
+ # This is a timer who's name is a space
+Decimal:10# Use :10 or :12 to specify base
+Doudecimal:12
+Timer with : fine #You can stuff use colons in your names
+Timer with :10:12 #if you want :12 or :10 to be in the name, you must specify
+# base
+
+#That was a timer without a name
+#Whitespace matters
+Yeah# This timer says yeah 33 3 355
