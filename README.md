@@ -14,3 +14,4 @@ Control + O opens a save file
   use res:// for the folder the executible is in
   
   .save can be ommited
+You can edit the timer.txt file to change the default timer names
